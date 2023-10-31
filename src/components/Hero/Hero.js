@@ -8,11 +8,11 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi! I'm Sheersho. <br />
+        Hello! I'm Sheersho. <br />
         Welcome to My Portfolio 
       </SectionTitle>
       <SectionText>
-      I am an aspiring developer from Dhaka, Bangladesh. Since graduating Univeristy, I have been delving deeper into the world of development and finding out about new technologies, building fun projects and incorporating all the best practices into my workflow. Learning has never felt so rewarding and I am loving every second of it.  
+      I'm a dedicated software developer currently based in Dhaka, Bangladesh. With a strong background in computer science, I am currently working as a game developer at Free Pixel Games Ltd. Since entering this world of computer science and development, I have always been very enthusiastic about learning all I can from it and am constantly looking to expand my skill set and enhance my expertise from any opportunities that present itself. What pushes me forward is a passion for creating innovative and efficient solutions that can address real-world challenges. On that end, I am always committed, both on a micro and macro scale, on delivering high-quality software products that can have a positive impact on a user's life. As I move forward in this field that witholds endless possibility and constant innovation, I am very excited to learn all I can and contribute all that I am able to.   
       </SectionText>
       <Button onClick={() => window.location = '/#about'}>Learn More</Button>
     </LeftSection>

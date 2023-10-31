@@ -4,7 +4,7 @@ export const projects = [
     description: "Rear View is a website developed using the MERN stack (MongoDB, Express, ReactJS and NodeJS) where users can share their reviews on various forms of media - films, books, anime, music albums, etc. for other users to see. ",
       image: 'https://i.ibb.co/6wcvMFj/1.png',
       tags: ['MongoDB', 'Express', 'React', 'Node', 'React-redux'],
-    source: 'https://rearview.netlify.app/',
+    source: '',
     visit: 'https://github.com/Sheersho98/Rear-View',
     id: 0,
   },
@@ -13,7 +13,7 @@ export const projects = [
     description:"Paintbrush is an e-commerce site meant for independent artists to advertise and sell their art as prints. Regular users will be able to log in to view the artworks posted and buy them as prints.",
     image: 'https://i.ibb.co/HPPpbkd/1.png',
     tags: ['HTML/CSS', 'Javascript', 'PHP', 'mySQL'],
-    source: 'http://paintbrush.infinityfreeapp.com/',
+    source: '',
     visit: 'https://github.com/Sheersho98/Paintbrush',
     id: 1,
   },
@@ -29,9 +29,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Started my journey my enrolling into school on a Computer Science major', },
+  { year: 2021, text: 'Graduated with top scores as a Bachelor of Science', },
+  { year: 2021, text: 'Started working as a Junior Software Developer at Free Pixel Games Ltd.', },
 ];
